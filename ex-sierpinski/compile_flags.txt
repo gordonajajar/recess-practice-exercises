@@ -1,7 +1,6 @@
 -g
 -I.
 -I/home/course/cs1010/include
--L/home/course/cs1010/lib
 -Wall
 -Wconversion
 -Wextra
