@@ -1,4 +1,4 @@
-bin/bash
+#!/bin/bash
 set -o nounset
 
 if [ $# -eq 0 ]; then
