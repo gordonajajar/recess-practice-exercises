@@ -13,6 +13,5 @@ void print_spaces(long);
 
 void draw_sierpinski(long level, long row){
 
-    // TODO: Replace this line with your code
-
+    return; // TODO: Replace this line with your code
 }

@@ -7,7 +7,7 @@ CC=clang
 LDLIBS=-lm ./libcs1010.a
 CFLAGS=@compile_flags.txt
 
-all: compile tidy
+all: compile tidy test
 
 sierpinski: sierpinski.c
 	$(CC) $(CFLAGS)    $^ $@-main.c $(LDLIBS) -o $@
