@@ -10,7 +10,7 @@
 
 long find_max(const long list[], long start, long end);
 
-int main()
+int main(void)
 {
   long list[100000];
   long num_of_elems = cs1010_read_long();

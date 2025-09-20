@@ -27,7 +27,7 @@ long power_of_two(long n)
 // complete this function in the file sierpinski.c
 void draw_sierpinski(long row, long level);
 
-int main()
+int main(void)
 {
   long i = cs1010_read_long();
   long height = power_of_two(i);

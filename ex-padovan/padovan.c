@@ -6,7 +6,7 @@
  */
 #include "cs1010.h"
 
-int main(){
+int main(void){
     /**
      *
      * A 4D-Padovan sequence is defined as:

@@ -10,7 +10,7 @@
 
 long find_largest(long n);
 
-int main()
+int main(void)
 {
   long n = cs1010_read_long();
   cs1010_println_long(find_largest(n));

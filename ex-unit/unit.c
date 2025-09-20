@@ -24,7 +24,7 @@ void find_unit_vector(const long v[3], double unit[3])
      **/
 }
 
-int main()
+int main(void)
 {
     long *vector = cs1010_read_long_array(3);
     double unit[3] = {0};
