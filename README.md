@@ -24,7 +24,7 @@ Ordered from easiest to hardest (subjective):
 Questions 1-4 are from Exercise 3 of CS1010 AY24/25 Sem 1, while Question 5 is the final question from AY24/25 Sem 1 PE0.
 Instructions for questions 1-4 are hosted on the CS1010 website, while instructions for question 5 are in the `INSTRUCTIONS.pdf` file within the `ex-sierpinski` folder.
 
-Questions 1-4 are on fixed-length array manipulation, while question 5 is on recursion.
+Please read the instructions carefully before attempting.
 
 For all the questions, you do not need to edit the `main` function.
 
