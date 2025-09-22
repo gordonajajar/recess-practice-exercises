@@ -13,5 +13,12 @@ void print_spaces(long);
 
 void draw_sierpinski(long level, long row){
 
+    /**
+     * Think wishfully:
+     * Assuming draw_sierpinski() works for level - 1,
+     * what do we need to print to draw the sierpinski triangle for level?
+    **/
+
     return; // TODO: Replace this line with your code
+
 }

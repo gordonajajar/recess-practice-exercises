@@ -22,6 +22,7 @@ void find_unit_vector(const long v[3], double unit[3])
 
         Complete this function to compute the unit vector.
      **/
+
 }
 
 int main(void)
