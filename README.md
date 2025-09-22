@@ -22,7 +22,7 @@ Ordered from easiest to hardest (subjective):
 5. `ex-sierpinski`: [go to exercise folder](./ex-sierpinski) | [go to instructions PDF](./ex-sierpinski/INSTRUCTIONS.pdf)
 
 Questions 1-4 are from Exercise 3 of CS1010 AY24/25 Sem 1, while Question 5 is the final question from AY24/25 Sem 1 PE0.
-Instructions for questions 1-4 are hosted on the CS1010 website, while instructions for question 5 are in the `INSTRUCTIONS.pdf` file within the `ex-sierpinski` folder.
+Instructions for questions 1-4 are hosted on the AY24/25 CS1010 website, while instructions for question 5 are in the `INSTRUCTIONS.pdf` file within the `ex-sierpinski` folder.
 
 Please read the instructions carefully before attempting.
 
